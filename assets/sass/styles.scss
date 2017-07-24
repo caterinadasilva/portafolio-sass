@@ -1,0 +1,25 @@
+nav {
+	position: absolute;
+	top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    background-color: transparent;
+    box-shadow: none;
+    padding-top: 25px;
+}
+nav .container {
+	width: 90%;
+}
+.first {
+	background-image: url("../img/img_slider_1.jpg");
+}
+.second {
+	background-image: url("../img/img_slider_2.jpg");
+}
+.box {
+    position: absolute;
+    top: 40%;
+    left: 0;
+    right: 0;
+}
