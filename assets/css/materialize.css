@@ -6891,5 +6891,13 @@ nav .container {
   align-items: center;
   flex-direction: column;
   background-color: rgba(0, 0, 0, 0.3); }
+  .box h1 {
+    font-weight: 700; }
+  .box .sub {
+    font-size: 1.2rem;
+    padding-bottom: 3em; }
+
+.sub {
+  font-family: "Roboto Slab"; }
 
 /*# sourceMappingURL=materialize.css.map */
